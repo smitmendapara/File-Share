@@ -10,12 +10,12 @@ Simple file sharing web app with drag and drop file upload
 
 ## Techstack used:)
 
-- NodeJS
+- Node.js
 - MongoDB (Database)
-- Express
+- Express.js
 - HTML
 - CSS
-- Javascript
+- JavaScript
 - Netlify (Deployment)
 - Netlify Scheduler (For deleting file after 24 hour)
 
